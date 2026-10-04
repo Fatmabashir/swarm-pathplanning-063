@@ -43,6 +43,9 @@ The best obstacle-free path found by the swarm is then displayed on the grid.
 - Cognitive coefficient (c1): 1.7
 - Social coefficient (c2): 1.7
 
+## Result Summary
+
+The final PSO path is obstacle-free and is generated using seed 63.
 ## How to Run
 
 Install the required libraries:
